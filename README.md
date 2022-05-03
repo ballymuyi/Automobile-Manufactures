@@ -1,3 +1,5 @@
 # Automobile-Manufactures
-Writing code to identify some car manufacures in Germany
-This shows some key car manufactures in Germany
+Germany is one of the car manufacturers globally.
+Some selected car have been listed in this Python script.
+Writing Python code to identify some car manufacures in Germany.
+
