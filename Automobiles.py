@@ -3,7 +3,7 @@
 print("The program start here!")
 
 Car_list = ["acura", "subaru", "audi", "skoda", "fabia", "bmw","toyota","volkswagen","honda","mercedes-benz","bentley",
-            "ford", "vibe", "rolls royce","geely","mitsubishi", "lexus",]
+            "ford", "vibe", "rolls royce","geely","mitsubishi", "lexus"]
 for car in Car_list:
     if car == "bmw":
         print(car.upper())
@@ -40,12 +40,12 @@ print("The program start here to print all the cars in the list that has the fol
 print("The cars are:exit")
 for car in Car_list:
     if "le" in car:
-        print(car)
+        print(car.title())
     elif "m" in car:
-        print(car)
+        print(car.title())
     elif "f" in car:
-        print(car)
+        print(car.title())
     elif "t" in car:
-        print(car)
+        print(car.title())
 print("The end" )
 
